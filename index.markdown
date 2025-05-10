@@ -27,13 +27,13 @@ In the 2022 presidential runoff, Brazil divided along regional, economic, and so
 
 This map shows the global distribution of city-level voting direction (left vs. right) across the 2014, 2018, and 2022 Brazilian presidential elections. Over time, a clear shift is visible: while right-leaning support was more prominent in 2014, many cities—especially across Latin America, Africa, and Europe—moved toward the left in 2018 and 2022. The plot highlights not only regional political shifts but also reflects how diaspora communities around the world align with evolving domestic trends in Brazil.
 
-<iframe src="{{ site.baseurl }}/assets/global_vote_direction.png" width="350" height="500"></iframe>
+<iframe src="{{ site.baseurl }}/assets/global_vote_direction.png" width="500" height="350"></iframe>
 
 #### Human Development Index x Vote
 
 In the visualization below, we explore the relationship between the Human Development Index (HDI) of Brazilian municipalities and their voting direction across three presidential elections: 2014, 2018, and 2022. Each panel represents one election year, comparing the distribution of HDI scores between municipalities that predominantly voted for left-leaning or right-leaning candidates.
 
-<iframe src="{{ site.baseurl }}/assets/HDI_Distribution.png" width="350" height="500"></iframe>
+<iframe src="{{ site.baseurl }}/assets/HDI_Distribution.png" width="500" height="350"></iframe>
 
 What stands out immediately is the consistent pattern across all three elections: municipalities that voted for right-wing candidates tend to have higher HDI values, while those supporting the left cluster around lower HDI levels. This is reflected in the positioning of the red and blue curves. The red curve (representing left-leaning municipalities) peaks around the 0.58–0.62 HDI range, whereas the blue curve (right-leaning) consistently peaks above 0.70. The limited overlap between the two distributions reinforces the idea that HDI is a meaningful factor associated with political orientation at the local level.
 
