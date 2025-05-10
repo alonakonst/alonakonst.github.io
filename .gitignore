@@ -6,3 +6,4 @@ vendor
 .venv/
 outputs/
 .bundle
+data/
