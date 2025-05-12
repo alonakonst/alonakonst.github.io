@@ -31,16 +31,12 @@ The interactive map below shows Brazilian municipalities colored by the vote dir
 
 
 
-## **How City Size Influenced the Vote**
-Small towns tended to favor Bolsonaro (right), while larger cities leaned toward Lula (left). This division highlights how population size and urbanization correlate with political preferences.
+<h3>Which City Sizes Influenced Brazil’s Elections the Most?</h3>
 
+<p>Is it the megacities with millions of people that shape election outcomes the most, or is it the sheer number of small cities that carry the real influence?</p>
 
-## **State-Level Patterns**
-This state-level visualization emphasizes broader geographic divisions, showing regional voting trends across Brazilian states.
+<p>The dashboard below (feel free to switch between 2018 and 2022 results) reveal that the majority of Brazilian cities fall into the <em>Small and Medium Town</em> categories, with between 2.5K and 100000K voters.</p>
 
-
-
-#### **City Size Analysis**
 
 <!-- Radio buttons for year selection -->
 <div style="text-align: center; margin-bottom: 1em;">
@@ -63,12 +59,18 @@ This state-level visualization emphasizes broader geographic divisions, showing 
   function switchImage(year) {
     var img = document.getElementById("city-image");
     var imageMap = {
-      "2018": "{{ site.baseurl }}/assets/testvizual.png",
-      "2022": "{{ site.baseurl }}/assets/test2.png"
+      "2018": "{{ site.baseurl }}/assets/2018.png",
+      "2022": "{{ site.baseurl }}/assets/2022.png"
     };
     img.src = imageMap[year];
   }
 </script>
+
+<p>In <strong>2018</strong>, this category experienced an average decline of about <strong>0.4 percentage points (or 4%)</strong> in support for right-wing candidates compared to 2014. However, due to the large number of such towns, they collectively accounted for nearly a <strong>quarter (22%) of the total ideological shift</strong>. Other major contributors were <em>Medium</em> and <em>Large Towns</em>. Altogether, about <strong>70% of the ideological shift</strong> came from cities with fewer than <strong>500K voters</strong> — a shift that ultimately contributed to the right coming to power.</p>
+
+<p>Now let’s look at <strong>2022</strong>: Who contributed the most to the right losing power?</p>
+
+<p>According to our analysis, it was voters in <em>Medium-Sized Towns</em>. That said, towns overall played a smaller role in the shift — their average positions remained more stable. Instead, we observe that <strong>cities with over 250K voters increased their influence</strong>, signaling a shift in political momentum toward Brazil’s urban centers.</p>
 
 ## **Voting from Abroad**
 Many Brazilian citizens cast their votes from abroad. This map shows which side won in each foreign city with a Brazilian polling station. 
