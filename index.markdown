@@ -42,7 +42,33 @@ This state-level visualization emphasizes broader geographic divisions, showing 
 
 #### **City Size Analysis**
 
+<!-- Radio buttons for year selection -->
+<div style="text-align: center; margin-bottom: 1em;">
+  <label>
+    <input type="radio" name="year" value="2018" checked onchange="switchImage(this.value)"> 2018
+  </label>
+  <label style="margin-left: 1em;">
+    <input type="radio" name="year" value="2022" onchange="switchImage(this.value)"> 2022
+  </label>
+</div>
 
+<!-- Image element -->
+<img id="city-image" 
+  src="{{ site.baseurl }}/assets/testvizual.png" 
+  alt="City Image" 
+  style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+
+<!-- Script to map year to custom image name -->
+<script>
+  function switchImage(year) {
+    var img = document.getElementById("city-image");
+    var imageMap = {
+      "2018": "{{ site.baseurl }}/assets/testvizual.png",
+      "2022": "{{ site.baseurl }}/assets/test2.png"
+    };
+    img.src = imageMap[year];
+  }
+</script>
 
 ## **Voting from Abroad**
 Many Brazilian citizens cast their votes from abroad. This map shows which side won in each foreign city with a Brazilian polling station. 
