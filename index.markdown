@@ -81,7 +81,7 @@ Over time, a clear shift is visible: while right-leaning support was more promin
   style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
 
 
-## **Human Development Index (HDI) and Vote Direction**
+## **Is there any correlation between HDI(Human Development Index) of a city and the ideology that the majority of the population vote?**
 This plot reveals a strong correlation between HDI and political preference. Right-leaning municipalities consistently exhibit higher HDI scores, while left-leaning areas cluster around lower values.
 
 <img 
@@ -91,7 +91,7 @@ This plot reveals a strong correlation between HDI and political preference. Rig
 
 Municipalities that supported right-wing candidates tend to have better indicators in income, education, and longevity (the HDI components). This trend persisted—and even sharpened—across all three elections. The socioeconomic divide has not only endured but grown more distinct over time.
 
-## **Demography**
+## **The social minority tends to vote more left?**
 
 
 The following plots shows a clear trend: municipalities with a low percentage of Black and Indigenous population tend to vote right, while those with higher minority representation lean more toward the left. Most cities have minority proportions below 20%, and in these areas, right-leaning candidates dominate the vote share.
@@ -110,7 +110,7 @@ As the minority proportion increases, support for left-leaning candidates become
 
 Overall, the data highlights how race and electoral outcomes are closely linked in Brazil, with minority-rich cities more aligned with left-wing candidates.
 
-## **Social Programs**
+## **States with the need of more Welfare Social Program tends to vote more left? And what about States that use less?**
 
 
 <div style="margin-bottom: 40px;">
