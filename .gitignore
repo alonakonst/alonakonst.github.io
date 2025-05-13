@@ -9,6 +9,9 @@ outputs/
 .bundle
 data/brazil_population_by_state.csv
 data/merged_2014_v1.gpkg
+data/merged_2014.gpkg
+data/merged_2018.gpkg
+data/merged_2022.gpkg
 data/merged_2018_v1.gpkg
 data/merged_2022_v1.gpkg
 data/merged_2022_v2.gpkg
