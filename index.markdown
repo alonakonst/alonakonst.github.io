@@ -15,12 +15,11 @@ A visual analysis of the race between left and right ideologies.
 
 
 ## **Introduction**
-Between 2014 and 2022, Brazil experienced dramatic political shifts. This project investigates how geography, development, and demographics shaped the race between left- and right-wing ideologies during presidential elections. Using official voting data and socioeconomic indicators, we uncover patterns in city-level results across time and space.
+Between 2014 and 2022, Brazil experienced dramatic political shifts. Our story is about how geography, development, and demographics shaped the race between left- and right-wing ideologies during presidential elections. Using official voting data and socioeconomic indicators, we uncover patterns in city-level results across time and space.
 
 ## **Who Won in Each City and State?**
 The interactive map below shows Brazilian municipalities colored by the vote direction (left vs. right) in each election year. Use the selector to switch between 2014, 2018, and 2022.
 
-#### **City analysis**
 <iframe
   src="elections_br.html"
   width="100%"
@@ -30,8 +29,7 @@ The interactive map below shows Brazilian municipalities colored by the vote dir
 </iframe>
 
 
-
-<h3>Which City Sizes Influenced Brazil’s Elections the Most?</h3>
+## **Which City Sizes Influenced Brazil’s Elections the Most?**
 
 <p>Is it the megacities with millions of people that shape election outcomes the most, or is it the sheer number of small cities that carry the real influence?</p>
 
@@ -50,7 +48,7 @@ The interactive map below shows Brazilian municipalities colored by the vote dir
 
 <!-- Image element -->
 <img id="city-image" 
-  src="{{ site.baseurl }}/assets/testvizual.png" 
+  src="{{ site.baseurl }}/assets/2018.png" 
   alt="City Image" 
   style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
 
