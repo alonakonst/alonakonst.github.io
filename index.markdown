@@ -15,7 +15,9 @@ A visual analysis of the race between left and right ideologies.
 
 
 ## **Introduction**
-Between 2014 and 2022, Brazil experienced dramatic political shifts. Our story is about how geography, development, and demographics shaped the race between left- and right-wing ideologies during presidential elections. Using official voting data and socioeconomic indicators, we uncover patterns in city-level results across time and space.
+Between 2014 and 2022, Brazil experienced dramatic political shifts. Our story is about how geography, development, and demographics shaped the race between left- and right-wing ideologies during presidential elections. In addition the last presidential election was characterized by a high level of polarization in which the difference between the 2 candidates(Lula and Bolsonaro) in the second round was won by Lula by just a difference of 2,1 million votes with 50.9% against 49.1%.
+
+Using official voting data and socioeconomic indicators, we uncover patterns in city-level results across time and space.
 
 ## **Who Won in Each City and State?**
 The interactive map below shows Brazilian municipalities colored by the vote direction (left vs. right) in each election year. Use the selector to switch between 2014, 2018, and 2022.
@@ -138,5 +140,13 @@ States in Brazil with a higher proportion of households participating in social 
 
 
 ## **Conclusion**
-Brazil's recent presidential elections tell a story of deep and persistent divides—urban vs. rural, high vs. low HDI, north vs. south, and domestic vs. expatriate voters. These divides reflect underlying structural inequalities that continue to shape the nation's political landscape. Visualizing these patterns helps reveal just how entrenched, and global, these splits have become.
+
+
+Brazil's recent presidential elections was an interesting event which was represented by the highest polarization between left and right ideology since the democracy started in the country. Through this project was possible to go deep in the vote dataset to understand a bit better how it was distributed and represented. It was possible to see some regionals polarizations, in a way that the Center and South looks more towards the right ideology when voting, while the northeast is much more represented by the left.
+
+Some analysis also was done via granularity by looking how was the behavior for big, medium and small cities. The capitals looked to be more progressists(left), even  that the overall state tends to be more right-ideology. Some deeper analysis regarding historical voting data in cities, which showed that on average mid-sized cities have most changed their vote ideology between the last elections, which could help to explain why at this time(last election) the left party won the most of the votes.
+
+Also was possible to analyse how the minorities and people who emigrated vote, which showed to be more towards left, while cities with higher HDI tends to have the population voting more right.
+
+These data analysis of previous elections helps to understand some behaviors of the brazilian electorate, make some correlations with the polarization that also happens in the whole world and mainly also helps to give some direction on how are the trends for the next election next year, and maybe in which type of public each political party should focus on in order to win the elections.
 
