@@ -13,6 +13,8 @@ nav:
 
 A visual analysis of the race between left and right ideologies.
 
+[❯ Link to the notebook](https://github.com/alonakonst/alonakonst.github.io/blob/main/notebook.ipynb)
+
 
 ## **Introduction**
 Between 2014 and 2022, Brazil experienced dramatic political shifts. Our story is about how geography, development, and demographics shaped the race between left- and right-wing ideologies during presidential elections. In addition the last presidential election was characterized by a high level of polarization in which the difference between the 2 candidates(Lula and Bolsonaro) in the second round was won by Lula by just a difference of 2,1 million votes with 50.9% against 49.1%.

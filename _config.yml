@@ -18,11 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-Title: Brazil's elections
-Group: 41
-Notebook: https://github.com/alonakonst/alonakonst.github.io/blob/main/notebook.ipynb
+title: Brazil's elections
+group: 41
 
-url: "https://alonakonst.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url:  # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
